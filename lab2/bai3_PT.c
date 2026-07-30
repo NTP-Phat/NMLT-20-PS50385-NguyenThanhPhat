@@ -17,8 +17,5 @@ int main (){
         x = -(float)b/a;
         printf("Phuong trinh %dx+%d = 0 co nghiem x= %.2f\n",a,b,x);
     }
-    
-
-
     return 0;
 }
